@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "name": "",
+    "date": "",
+    "version": "v1"
+  },
+  "solutions": {},
+  "customers": [
+    {
+      "id": "C-01",
+      "text": "engineering teams in energy sector",
+      "why": "",
+      "ideal": true
+    }
+  ],
+  "alternatives": [],
+  "problemStatement": {
+    "context": "",
+    "complication": "",
+    "consequence": ""
+  },
+  "valueProp": {
+    "who": "",
+    "what": "",
+    "how": "",
+    "over": "",
+    "why": ""
+  },
+  "riskiest": "",
+  "evidencePlan": "",
+  "leads": []
+}

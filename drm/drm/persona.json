@@ -1,0 +1,33 @@
+{
+  "problemId": "",
+  "fields": {
+    "who": {
+      "text": "",
+      "evidence": []
+    },
+    "moment": {
+      "text": "",
+      "evidence": []
+    },
+    "workaround": {
+      "text": "",
+      "evidence": []
+    },
+    "cost": {
+      "text": "",
+      "evidence": []
+    },
+    "words": {
+      "text": "",
+      "evidence": []
+    },
+    "buyer": {
+      "text": "",
+      "evidence": []
+    },
+    "reach": {
+      "text": "",
+      "evidence": []
+    }
+  }
+}
