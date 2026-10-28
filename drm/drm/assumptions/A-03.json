@@ -1,0 +1,28 @@
+{
+  "id": "A-03",
+  "seed": "",
+  "kind": "other",
+  "text": "bike commuters would pay for a premium version of a live closures map app",
+  "problemId": "",
+  "customerId": "",
+  "alternativeId": "",
+  "impact": 5,
+  "confidence": 2,
+  "pos": {
+    "x": 0.25,
+    "y": 1
+  },
+  "aiImpact": "",
+  "aiConfidence": "",
+  "aiEvidence": [],
+  "aiReason": "",
+  "evidence": [],
+  "note": "",
+  "status": "Active",
+  "foundBy": "Founder",
+  "updatedAt": "2026-10-28T01:13:54.306Z",
+  "label": {
+    "dx": 26,
+    "dy": -3
+  }
+}

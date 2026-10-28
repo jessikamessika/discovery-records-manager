@@ -1,32 +1,71 @@
 {
   "meta": {
-    "name": "",
-    "date": "",
-    "version": "v1"
+    "name": "Jess Z",
+    "date": "2026-10-27",
+    "version": "v2"
   },
-  "solutions": {},
+  "solutions": {
+    "PR-03": "advanced AI research?",
+    "PR-01": "spatial data aggregation & modeling",
+    "PR-02": "spatial data aggregation & modeling"
+  },
   "customers": [
     {
       "id": "C-01",
       "text": "engineering teams in energy sector",
       "why": "",
+      "ideal": false
+    },
+    {
+      "id": "C-02",
+      "text": "geospatial companies/teams",
+      "ideal": false
+    },
+    {
+      "id": "C-03",
+      "text": "cycling commuters",
       "ideal": true
     }
   ],
-  "alternatives": [],
+  "alternatives": [
+    {
+      "id": "ALT-01",
+      "name": "get super efficient at reactively responding to equipment failures",
+      "gap": "downtime still very costly"
+    },
+    {
+      "id": "ALT-02",
+      "name": "lots of back-and-forth with mapmakers/source, just keeping track of your own field-verified data, getting AI chatbot to make a map",
+      "gap": "still time wasted; could have a more efficient/integrated system"
+    },
+    {
+      "id": "ALT-03",
+      "name": "just train AI on tons of scenarios. Some use smaller models for efficiency, or divide tasks/scenarios between sub-agents",
+      "gap": "companies still talk about wanting to be more efficient, wish there was a 1-click, fast option for AI to be trained on classification (e.g. how to recognize a pool from all angles, when only trained on 1-2 angles)"
+    }
+  ],
   "problemStatement": {
-    "context": "",
-    "complication": "",
-    "consequence": ""
+    "context": "bike commuters run into an unexpected road closure they can't easily find a way around,",
+    "complication": "running late/delaying other plans and frustration/lowered enjoyment of riding experience",
+    "consequence": "commuters (by definition) need to be on time and value a fairly pleasant commute"
   },
   "valueProp": {
-    "who": "",
-    "what": "",
-    "how": "",
-    "over": "",
-    "why": ""
+    "who": "cycling commuters",
+    "what": "wasted time and frustration due to maps & spatial data being inaccurate/hard to use",
+    "how": "spatial data aggregation & modeling,",
+    "over": "lots of back-and-forth with mapmakers/source + just keeping track of their own field-verified data (and the bad map sources) + using AI chatbots to make maps,",
+    "why": "streamlined and customizable to any route in the city"
   },
   "riskiest": "",
   "evidencePlan": "",
-  "leads": []
+  "leads": [
+    {
+      "id": "L-01",
+      "name": "Melissa",
+      "org": "MRU Innovation Institute",
+      "why": "Is a cycling commuter, has expressed that she knows other commuters who'd be interested in product",
+      "how": "intros",
+      "done": false
+    }
+  ]
 }
